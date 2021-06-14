@@ -65,9 +65,8 @@ body {
 }
 
 .vertical-center h3 {
-	/*margin-top:  600px;*/
+	margin-top:  600px;
 	font-family: 'Roboto', sans-serif;
-	padding-top: 500px;
 	padding-bottom:  50px;
 	color:  white;
 	font-size:  25px;
@@ -79,9 +78,9 @@ body {
 
 .modal-button {
 	padding: 15px 50px 15px 50px;
-	background-image: linear-gradient(#a3a2a2, #dbd9d9);
-	color: #5e5d5d;
-	font-size:  20px;
+	background-image: linear-gradient(#cccaca, #dbd9d9);
+	color: #696969;
+	font-size:  17px;
 	border:  1px solid white;
 
 }
